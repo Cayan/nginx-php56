@@ -1,3 +1,5 @@
+This fork adds support for postgres.
+
 <p align="center">
   <a href="http://docker.io">
     <img height="81" width="341" src="http://upload.wikimedia.org/wikipedia/commons/7/79/Docker_(container_engine)_logo.png">
